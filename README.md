@@ -9,11 +9,10 @@
  * HTML
  * CSS
  * Javascript
- * Codepen
  
  
-### Special Thanks To Scott Heron 
-I used his template from Codepen.
+### Special Thanks by HTML5 UP
+This template is created by @ajlkn.
 
 ## Visit Site
 
