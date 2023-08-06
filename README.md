@@ -9,10 +9,6 @@
  * HTML
  * CSS
  * Javascript
- 
- 
-### Special Thanks by HTML5 UP
-This template is created by @ajlkn.
 
 ## Visit Site
 
